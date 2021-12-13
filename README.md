@@ -2,7 +2,8 @@
 
   :student: Me formando em TADS - Analise e Desenvolvimento de Sistemas - Unisales, Campus de Vitória (Último semestre).
 
-  - :man_teacher: Atualmente, sou estagiário da PMVV e atuo como instrutor de informática básica para todos os públicos 	
+  - :man_teacher: Atualmente, sou estagiário da PMVV e atuo como instrutor de informática básica para todos os públicos 
+  - :computer: Estou procurando um outro estágio para aprender mais e atuar como programador
   - 🌱 Voltando para o github para postar meus projetos práticos e atualmente estudando mais sobre Flask e Python
   - 😄 Um cara simples e tranquilo, 70% Otaku e Nerd, Gamer, tenho um Canal no Ytb de Jogos e um pouco Chato u.u 
   
@@ -12,7 +13,8 @@
   </div>
     <br>
   <div>
-    <a href="mailto: carlos.d.freitas0@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"> </a>
-    <a href="https://www.youtube.com/channel/UCjUl5NjjwunMVWlZeEDeWdQ" target="blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="blank"> </a>
+    <a href="mailto: carlos.d.freitas0@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+    <a href="https://www.youtube.com/channel/UCjUl5NjjwunMVWlZeEDeWdQ" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> </a>
+    <a href="https://api.whatsapp.com/send?phone=5511987654321&text=Olá" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
 </div>
   
