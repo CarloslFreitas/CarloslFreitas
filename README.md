@@ -6,8 +6,8 @@
   - 🌱 Voltando para o github para postar meus projetos práticos e atualmente estudando mais sobre Flask e Python
   - 😄 Um cara simples e tranquilo, 70% Otaku e Nerd, Gamer e um pouco Chato u.u 
   
-  <div>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CarloslFreitas&show_icons=true&theme=algolia"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloslFreitas&layout=compact&langs_count-16&theme=algolia"/>
-  </div>
+  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarloslFreitas&show_icons=true&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloslFreitas&layout=compact&langs_count-16&theme=algolia"/>
+  
   
