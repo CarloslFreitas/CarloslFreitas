@@ -7,8 +7,8 @@
   - 😄 Um cara simples e tranquilo, 70% Otaku e Nerd, Gamer e um pouco Chato u.u 
   
   <div>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CarloslFreitas&show_icons=true&theme=react "/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloslFreitas&layout=compact&langs_count-16&theme=react "/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CarloslFreitas&show_icons=true&theme=algolia "/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloslFreitas&layout=compact&langs_count-16&theme=algolia  "/>
   </div>
     
   
