@@ -14,7 +14,7 @@
     <br>
   <div align="center">
     <a href="mailto: carlos.d.freitas0@gmail.com" target="_blank" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-    <a href="https://www.youtube.com/channel/UCjUl5NjjwunMVWlZeEDeWdQ" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> </a>
+    <a href="https://www.youtube.com/channel/UCjUl5NjjwunMVWlZeEDeWdQ" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
     
 </div>
   
