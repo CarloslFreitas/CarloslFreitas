@@ -6,3 +6,7 @@
   - 🌱 Voltando para o github para postar meus projetos práticos e atualmente estudando mais sobre Flask e Python
   - 😄 Um cara simples e tranquilo, 70% Otaku e Nerd, Gamer e um pouco Chato u.u 
   
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarloslFreitas&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
