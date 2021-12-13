@@ -7,11 +7,7 @@
   - 😄 Um cara simples e tranquilo, 70% Otaku e Nerd, Gamer e um pouco Chato u.u 
   
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarloslFreitas&show_icons=true&theme=algolia"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloslFreitas&layout=compact&langs_count-16&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarloslFreitas&show_icons=true&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloslFreitas&layout=compact&langs_count-16&theme=algolia"/>
   </div>
   
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarloslFreitas&repo=github-readme-stats&theme=algolia)
-
-
-
