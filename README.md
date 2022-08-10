@@ -3,7 +3,7 @@
   :student: Formado em TADS - Analise e Desenvolvimento de Sistemas - Unisales; Atualmente cursando Sistemas de Informação (6º semestre).
 
   - :man_teacher: Atualmente, sou estagiário da PMVV e atuo como instrutor de informática básica para todos os públicos 
-  - :computer: Estou procurando um outro estágio para aprender mais e atuar como programador
+  - :computer: Quem quiser adotar um estagiário, tô aqui, ta perdendo nada só ganhando.
   - 🌱 Front-End Developer, estudando mais sobre Flask e Python
   - 😄 Um cara simples e tranquilo, 70% Otaku e Nerd, Gamer, tenho um Canal no Ytb de Jogos  u.u 
   
