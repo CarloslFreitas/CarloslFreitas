@@ -1,6 +1,7 @@
 ### Eae, Sou Carlos! 👋
 
-  :student: Formado em TADS - Analise e Desenvolvimento de Sistemas - Unisales; Atualmente cursando Sistemas de Informação (7º Período).
+  :student: Formado em TADS - Analise e Desenvolvimento de Sistemas -  
+            Atualmente cursando Sistemas de Informação (7º Período) no Centro Universitario Salesiano - Unisales - .
 
   - :man_teacher: Atualmente, Sou um Desenvolvedor FullStack em formação pela Kenzie Academy Brasil
   - :computer: Quem quiser adotar um estagiário, tô aqui, ta perdendo nada só ganhando
