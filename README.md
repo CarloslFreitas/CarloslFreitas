@@ -41,3 +41,6 @@
 </div>
 <hr/>
 
+![Snake_animation](https://github.com/CarloslFreitas/CarloslFreitas/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=CarloslFreitas&repo=CarloslFreitas&theme=react)](https://github.com/CarloslFreitas/CarloslFreitas)
+
