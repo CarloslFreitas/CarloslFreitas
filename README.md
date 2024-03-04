@@ -20,7 +20,7 @@
 <br>
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarloslFreitas&show_icons=true&theme=github_dark&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarloslFreitas&show_icons=true&theme=github_dark&include_all_commits=true&rank_icon=github" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloslFreitas&layout=compact&langs_count=168&theme=github_dark" />
 </div>
 
