@@ -43,5 +43,9 @@
 </div>
 <hr/>
 
+![snake gif](https://github.com/CarloslFreitas/CarloslFreitas/blob/output/github-contribution-grid-snake.gif)
+
+
+
 
 
